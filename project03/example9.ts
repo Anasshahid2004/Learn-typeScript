@@ -1,0 +1,1 @@
+let AnasName: (name: string, nickname?: string) => string;
